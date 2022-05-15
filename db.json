@@ -2,89 +2,81 @@
   "products": [
     {
       "id": 1,
-      "title": "록바1",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "수박",
+      "price": 40000,
+      "imgUrl": "https://i.pinimg.com/564x/f9/b2/7a/f9b27aabcc32aa1bf54c24fc0684754c.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 2,
-      "title": "록바2",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "망고",
+      "price": 8000,
+      "imgUrl": "https://i.pinimg.com/564x/b0/90/46/b090468ec7086ce9436b19d77dc2d84d.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 3,
-      "title": "록바3",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "체리",
+      "price": 3000,
+      "imgUrl": "https://i.pinimg.com/564x/f4/99/13/f49913dff3762b7c9ed8ab8ac24a289c.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 4,
-      "title": "록바4",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "귤",
+      "price": 1500,
+      "imgUrl": "https://i.pinimg.com/564x/eb/de/88/ebde88df529864dfac176e471cce59c4.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 5,
-      "title": "록바5",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "딸기",
+      "price": 900,
+      "imgUrl": "https://i.pinimg.com/736x/2a/dc/0c/2adc0ccdcc48c2a308a71a060e486953.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 6,
-      "title": "록바6",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "코코넛",
+      "price": 14000,
+      "imgUrl": "https://i.pinimg.com/564x/96/a9/56/96a95673ce630df8a78b00f0e2bebf9e.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 7,
-      "title": "록바7",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "사과",
+      "price": 2000,
+      "imgUrl": "https://i.pinimg.com/564x/5e/d5/40/5ed540c5f50aa0588fb2a28155846d9e.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 8,
-      "title": "록바8",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "포도",
+      "price": 5000,
+      "imgUrl": "https://i.pinimg.com/564x/7b/1c/27/7b1c2770a37adbd513b214fe6e9c87a4.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 9,
-      "title": "록바9",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "title": "바나나",
+      "price": 2000,
+      "imgUrl": "https://i.pinimg.com/564x/35/04/a1/3504a1ef61f1edeb654a421ed5fd6203.jpg",
       "stock": 3,
       "isInShoppingCart": false
     },
     {
       "id": 10,
-      "title": "록바10",
+      "title": "블루베리",
       "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
-      "stock": 3,
-      "isInShoppingCart": false
-    },
-    {
-      "id": 1,
-      "title": "록바1",
-      "price": 3000000,
-      "imgUrl": "https://i.ibb.co/8X0KLCr/iOS.jpg",
+      "imgUrl": "https://i.pinimg.com/564x/9d/7a/8c/9d7a8cdfdcf015bb6516e8469241478a.jpg",
       "stock": 3,
       "isInShoppingCart": false
     }
