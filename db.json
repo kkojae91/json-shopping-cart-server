@@ -169,7 +169,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "버섯",
       "price": 600,
       "imgUrl": "https://i.pinimg.com/564x/3d/30/5b/3d305b7e47a094b5001847f86ccdd153.jpg",
@@ -177,7 +177,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "파프리카",
       "price": 600,
       "imgUrl": "https://i.pinimg.com/564x/69/82/b4/6982b4d88581775389ea992abc3d70ec.jpg",
@@ -185,7 +185,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "청포도",
       "price": 2400,
       "imgUrl": "https://i.pinimg.com/564x/71/ac/91/71ac91b4238e4fc66b97fc0b5c575c4c.jpg",
@@ -193,7 +193,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "파인애플",
       "price": 2400,
       "imgUrl": "https://i.pinimg.com/564x/3e/3b/cf/3e3bcf67610b16b49bc6de0ff019b96a.jpg",
@@ -201,7 +201,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "복숭아",
       "price": 1100,
       "imgUrl": "https://i.pinimg.com/736x/c9/bd/0e/c9bd0e8479515766dbbac8c945831d4f.jpg",
@@ -209,7 +209,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "키위",
       "price": 1400,
       "imgUrl": "https://i.pinimg.com/564x/8a/86/58/8a86580bfc3ae0808b9b2d49a72ba6c2.jpg",
@@ -217,7 +217,7 @@
       "isInShoppingCart": false
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "레몬",
       "price": 800,
       "imgUrl": "https://i.pinimg.com/564x/b0/64/76/b06476605329486faee7d68a1fd5d52c.jpg",
