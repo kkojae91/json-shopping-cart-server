@@ -75,8 +75,152 @@
     {
       "id": 10,
       "title": "블루베리",
-      "price": 3000000,
+      "price": 700,
       "imgUrl": "https://i.pinimg.com/564x/9d/7a/8c/9d7a8cdfdcf015bb6516e8469241478a.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 11,
+      "title": "토마토",
+      "price": 3000,
+      "imgUrl": "https://i.pinimg.com/564x/d9/54/6b/d9546bf783d822104122aaba5227ac5c.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 12,
+      "title": "양파",
+      "price": 800,
+      "imgUrl": "https://i.pinimg.com/564x/5a/fa/d0/5afad01b38d327252f8204775cf4c57d.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 13,
+      "title": "양배추",
+      "price": 800,
+      "imgUrl": "https://i.pinimg.com/564x/b6/79/54/b67954a7113e1fb688b43eb51477fc3a.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 14,
+      "title": "완두콩",
+      "price": 300,
+      "imgUrl": "https://i.pinimg.com/564x/9c/b7/be/9cb7beb2ed288f016d6a7c1e435f5802.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 15,
+      "title": "완두콩",
+      "price": 300,
+      "imgUrl": "https://i.pinimg.com/564x/9c/b7/be/9cb7beb2ed288f016d6a7c1e435f5802.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 16,
+      "title": "피망",
+      "price": 700,
+      "imgUrl": "https://i.pinimg.com/564x/fa/be/62/fabe623f1ff43529a34efb8d54059910.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 17,
+      "title": "가지",
+      "price": 1200,
+      "imgUrl": "https://i.pinimg.com/564x/41/1c/a7/411ca783f5d5d360bc96035c9ecdc8d2.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 18,
+      "title": "아스파라거스",
+      "price": 1200,
+      "imgUrl": "https://i.pinimg.com/564x/e2/2b/38/e22b38050a7c3b7b25a1ba0852065a25.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 19,
+      "title": "당근",
+      "price": 600,
+      "imgUrl": "https://i.pinimg.com/564x/ba/a3/7b/baa37b851e4085d5f0902ad0abedb48f.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 20,
+      "title": "옥수수",
+      "price": 1200,
+      "imgUrl": "https://i.pinimg.com/564x/29/df/bb/29dfbbd67ecbc32862c58d27787400a2.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 21,
+      "title": "아보카도",
+      "price": 1500,
+      "imgUrl": "https://i.pinimg.com/564x/19/a4/77/19a4774da186bed89010e807b2d485a2.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 21,
+      "title": "버섯",
+      "price": 600,
+      "imgUrl": "https://i.pinimg.com/564x/3d/30/5b/3d305b7e47a094b5001847f86ccdd153.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 22,
+      "title": "파프리카",
+      "price": 600,
+      "imgUrl": "https://i.pinimg.com/564x/69/82/b4/6982b4d88581775389ea992abc3d70ec.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 23,
+      "title": "청포도",
+      "price": 2400,
+      "imgUrl": "https://i.pinimg.com/564x/71/ac/91/71ac91b4238e4fc66b97fc0b5c575c4c.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 24,
+      "title": "파인애플",
+      "price": 2400,
+      "imgUrl": "https://i.pinimg.com/564x/3e/3b/cf/3e3bcf67610b16b49bc6de0ff019b96a.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 25,
+      "title": "복숭아",
+      "price": 1100,
+      "imgUrl": "https://i.pinimg.com/736x/c9/bd/0e/c9bd0e8479515766dbbac8c945831d4f.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 26,
+      "title": "키위",
+      "price": 1400,
+      "imgUrl": "https://i.pinimg.com/564x/8a/86/58/8a86580bfc3ae0808b9b2d49a72ba6c2.jpg",
+      "stock": 3,
+      "isInShoppingCart": false
+    },
+    {
+      "id": 27,
+      "title": "레몬",
+      "price": 800,
+      "imgUrl": "https://i.pinimg.com/564x/b0/64/76/b06476605329486faee7d68a1fd5d52c.jpg",
       "stock": 3,
       "isInShoppingCart": false
     }
