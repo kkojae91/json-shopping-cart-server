@@ -7,7 +7,7 @@
       "imgUrl": "https://i.pinimg.com/564x/f9/b2/7a/f9b27aabcc32aa1bf54c24fc0684754c.jpg",
       "stock": 3,
       "quantity": 1,
-      "isInShoppingCart": false
+      "isChecked": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "imgUrl": "https://i.pinimg.com/564x/b0/90/46/b090468ec7086ce9436b19d77dc2d84d.jpg",
       "stock": 3,
       "quantity": 1,
-      "isInShoppingCart": false
+      "isChecked": true
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "imgUrl": "https://i.pinimg.com/564x/f4/99/13/f49913dff3762b7c9ed8ab8ac24a289c.jpg",
       "stock": 3,
       "quantity": 1,
-      "isInShoppingCart": false
+      "isChecked": true
     }
   ],
   "products": [
