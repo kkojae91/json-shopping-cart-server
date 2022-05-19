@@ -308,7 +308,9 @@
       "price": 800,
       "imgUrl": "https://i.pinimg.com/564x/b0/64/76/b06476605329486faee7d68a1fd5d52c.jpg",
       "stock": 3,
-      "isInShoppingCart": false
+      "isInShoppingCart": false,
+      "isChecked": true,
+      "quantity": 1
     }
   ]
 }
